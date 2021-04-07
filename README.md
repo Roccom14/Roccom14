@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-name: Waka Readme
+<!--name: Waka Readme
 
-on:
+<!--on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
 
-jobs:
+<!--jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
