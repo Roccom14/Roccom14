@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rocco, i have 19yo and i'm curently working at the EPFL as an apprentice at ENAC-IT.
+My name is Rocco, i have 21yo and i'm curently working at the EPFL as an apprentice at ENAC-IT.
 
 <!--
 **Roccom14/Roccom14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
